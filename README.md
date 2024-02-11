@@ -1,6 +1,6 @@
 # Python-projects
-simple python project task list
-Certainly! The provided Python program is a simple command-line interface (CLI) To-Do List application. Here's a brief description of its functionality:
+Simple python project task list Explained:
+
 
 1. **To-Do List Class (`ToDoList`):**
    - The `ToDoList` class represents a to-do list and has methods for adding tasks, marking tasks as completed, viewing tasks, saving tasks to a file, and loading tasks from a file.
